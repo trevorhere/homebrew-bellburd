@@ -1,9 +1,8 @@
 class Bellburd < Formula
   desc "Bellburd CLI for on-call management"
   homepage "https://github.com/trevorhere/bellburd"
-  # Update url + sha256 per release.
   url "https://github.com/trevorhere/bellburd/releases/download/v0.1.0/bellburd-cli-0.1.0.tgz"
-  sha256 "REPLACE_WITH_SHA256"
+  sha256 "c464e63b83322bfcbb28257b3ce23d840709fa5796ed3c72fba92f51945e8a88"
   license "UNLICENSED"
 
   depends_on "node"
